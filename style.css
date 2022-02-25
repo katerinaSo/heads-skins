@@ -1,0 +1,19 @@
+body{
+	background:black;
+	font-family: 'Noto Serif Display', serif;
+}
+
+button{
+	background:black;
+	color:white;
+	font-size:14pt;
+	padding:7px 10px ;
+	width:100pt;
+	font-family: 'Noto Serif Display', serif;
+	
+}
+
+button:hover{
+	background:white;
+	color:black;
+}
